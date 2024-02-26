@@ -63,4 +63,4 @@
 
 
 
-**Click [here](https://github.com/Kanikamittal99/8-week-sql-challenge/blob/main/Clique%20Bait/CaseStudy.sql) to check my solutions for the above questions**
+**Click [here](https://github.com/Kanikamittal99/8-week-sql-challenge/blob/main/Clique%20Bait/CaseStudy.sql) to check my approach in handling above business queries**
